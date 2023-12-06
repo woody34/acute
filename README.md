@@ -1,6 +1,6 @@
 # Acute
 
-A Angular monorepo that uses ssr
+A Angular monorepo that uses ssr.
 
 ## Feature Segmentation
 
@@ -43,3 +43,6 @@ A Angular monorepo that uses ssr
 - binders
   - binder-list
   - binder-details
+
+  https://nx.dev/concepts/module-federation/micro-frontend-architecture
+  https://nx.dev/getting-started/tutorials/angular-monorepo-tutorial
